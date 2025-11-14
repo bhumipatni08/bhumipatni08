@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [bhumipatni.vercel.app](bhumipatni.vercel.app)
+- 👨‍💻 All of my projects are available at https://bhumipatni.vercel.app/
 
 - 💬 Ask me about **Java, C, C++**
 
